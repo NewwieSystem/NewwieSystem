@@ -1,20 +1,20 @@
 # 🏄‍♂️ Newwie System
 
-👩‍💻 Full Stack Developer | 💻 Web & App Developer
-✨ Front-end: React, Vue.js, HTML, CSS, JavaScript, TypeScript
-⚙️ Back-end: Node.js, Express, Python (Django, Flask), PHP
-🛠️ Database: MySQL, PostgreSQL, MongoDB, Firebase
-🌐 API: REST, GraphQL, WebSockets
-🔧 DevOps: Docker, CI/CD, AWS, Heroku
-🔒 Security: JWT, OAuth, HTTPS
-📱 Mobile Development: React Native, Flutter
-📈 Version Control: Git, GitHub, GitLab
+👩‍💻 **Full Stack Developer** | 💻 **Web & App Developer** </br>
+✨ **Front-end**: React, Vue.js, HTML, CSS, JavaScript, TypeScript </br>
+⚙️ **Back-end**: Node.js, Express, Python (Django, Flask), PHP </br>
+🛠️ **Database**: MySQL, PostgreSQL, MongoDB, Firebase </br>
+🌐 **API**: REST, GraphQL, WebSockets </br>
+🔧 **DevOps**: Docker, CI/CD, AWS, Heroku </br>
+🔒 **Security**: JWT, OAuth, HTTPS </br>
+📱 **Mobile Development**: React Native, Flutter </br>
+📈 **Version Control**: Git, GitHub, GitLab </br>
 
-🚀 Building scalable, user-friendly, and efficient systems
-🎯 Passionate about coding, problem-solving & creating innovative solutions
-🌱 Always learning & evolving with the latest tech trends
-👨‍💻 Collaborative team player | 📈 Project-driven
-📩 Open for collaborations & freelance opportunities
+🚀 **Building scalable, user-friendly, and efficient systems** </br>
+🎯 Passionate about coding, problem-solving & creating innovative solutions </br>
+🌱 **Always learning & evolving** with the latest tech trends </br>
+👨‍💻 **Collaborative team player** | 📈 **Project-driven** </br>
+📩 **Open for collaborations & freelance opportunities** </br>
 
 ---
 
