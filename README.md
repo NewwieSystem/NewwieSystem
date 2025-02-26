@@ -1,7 +1,20 @@
 # 🏄‍♂️ Newwie System
 
-**`Digital Craftsman (Developer/Engineer)`**
-I'm an Thai full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
+👩‍💻 Full Stack Developer | 💻 Web & App Developer
+✨ Front-end: React, Vue.js, HTML, CSS, JavaScript, TypeScript
+⚙️ Back-end: Node.js, Express, Python (Django, Flask), PHP
+🛠️ Database: MySQL, PostgreSQL, MongoDB, Firebase
+🌐 API: REST, GraphQL, WebSockets
+🔧 DevOps: Docker, CI/CD, AWS, Heroku
+🔒 Security: JWT, OAuth, HTTPS
+📱 Mobile Development: React Native, Flutter
+📈 Version Control: Git, GitHub, GitLab
+
+🚀 Building scalable, user-friendly, and efficient systems
+🎯 Passionate about coding, problem-solving & creating innovative solutions
+🌱 Always learning & evolving with the latest tech trends
+👨‍💻 Collaborative team player | 📈 Project-driven
+📩 Open for collaborations & freelance opportunities
 
 ---
 
