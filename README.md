@@ -14,7 +14,6 @@
 🎯 Passionate about coding, problem-solving & creating innovative solutions </br>
 🌱 **Always learning & evolving** with the latest tech trends </br>
 👨‍💻 **Collaborative team player** | 📈 **Project-driven** </br>
-📩 **Open for collaborations & freelance opportunities** </br>
 
 ---
 
